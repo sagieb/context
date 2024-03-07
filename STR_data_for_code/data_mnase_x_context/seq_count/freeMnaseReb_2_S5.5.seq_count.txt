@@ -1,0 +1,10 @@
+Reb1A_Reb1_Aqr1_ACCT_on 1
+Reb1A_Reb1_Aqr1_ACGG_on 1
+Reb1A_Reb1_Aqr1_AGG_off 1
+Reb1A_Reb1_Aqr1_AGTT_on 1
+Reb1A_Reb1_Aqr1_ATTG_off 1
+Reb1A_Reb1_Aqr1_CAGT_off 1
+Reb1A_Reb1_Aqr1_CATT_off 1
+Reb1A_Reb1_Aqr1_CGTT_off 1
+Reb1A_Reb1_Aqr1_CTGT_off 1
+no_adapter 529

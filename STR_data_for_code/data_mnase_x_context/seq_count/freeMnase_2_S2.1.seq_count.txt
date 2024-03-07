@@ -1,0 +1,4 @@
+Msn2C_Msn2_Cip1_AGGTC_off 1
+Msn2C_Msn2_Cip1_CAAT_on 1
+Msn2C_Msn2_Cip1_TG_on 1
+no_adapter 13053

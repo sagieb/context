@@ -1,0 +1,17 @@
+Msn2H_Msn2_Cip1_GGTCA_off 1
+Msn2H_Msn2_Cip1_GTCCA_off 1
+Msn2H_Msn2_Cip1_GTCCA_on 1
+Msn2H_Msn2_Cip1_GTGTA_on 1
+Msn2H_Msn2_Cip1_GT_on 1
+Msn2H_Msn2_Cip1_GTTCA_off 1
+Msn2H_Msn2_Cip1_GTTCA_on 1
+Msn2H_Msn2_Cip1_TGGAA_on 1
+Msn2H_Msn2_Cip1_TG_on 1
+Msn2H_Msn2_Cip1_TTCA_on 1
+Msn2H_Msn2_Cip1_TTTGT_on 1
+Msn2H_Msn2_Cip1_GGTAC_off 2
+Msn2H_Msn2_Cip1_GTGAA_on 2
+Msn2H_Msn2_Cip1_TGCT_off 2
+Msn2H_Msn2_Cip1_TGTC_on 2
+Msn2H_Msn2_Cip1_GTCAC_off 3
+no_adapter 12188
