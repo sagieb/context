@@ -1,0 +1,10 @@
+﻿TF,Lib_number,Exp_number,pool_number,Sample_name,why?,bad sample pool?
+Msn2_LIVFtoY,Msn2B,29,1,1_180_3,,
+Msn2_LIVFtoY,Msn2C,29,1,1_180_3,,
+Msn2_DEKRtoN,Msn2C,29,1,1_0_2,no values just NaNs,
+Msn2_DEKRtoN,Msn2D,29,1,1_0_2,,
+Msn2_DEKRtoN,Msn2F,29,1,1_0_1,,
+Msn2_DEKRtoN,Msn2F,29,1,1_180_1,,
+Msn2_NtoH,Msn2C,29,1,1_180_3,,
+Msn2_NtoH,Msn2G,29,1,1_0_3,,
+Msn2_NtoH,Msn2H,29,1,1_0_1,,

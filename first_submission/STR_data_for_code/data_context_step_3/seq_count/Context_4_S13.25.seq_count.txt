@@ -1,0 +1,12 @@
+Msn2E_Msn2_Cip1_CCAAG_on 1
+Msn2E_Msn2_Cip1_CCTAG_off 1
+Msn2E_Msn2_Cip1_CCTTA_on 1
+Msn2E_Msn2_Cip1_CCTTC_off 1
+Msn2E_Msn2_Cip1_CCTTC_on 1
+Msn2E_Msn2_Cip1_GACT_on 1
+Msn2E_Msn2_Cip1_GATG_off 1
+Msn2E_Msn2_Cip1_GATG_on 1
+Msn2E_Msn2_Cip1_GCTT_off 1
+Msn2E_Msn2_Cip1_genome_on 1
+Msn2E_Msn2_Cip1_CAGTC_on 2
+no_adapter 885

@@ -1,0 +1,13 @@
+﻿TF,Lib_number,Exp_number,pool_number,Sample_name,why?,bad sample pool?
+Msn2DBDOE,Msn2_34mer_embedding_CIP1,29,2,1_180_1,,
+Msn2DBDOE,Msn2_34mer_embedding_PGM2,29,2,1_180_1,,
+Msn2,Msn2_5mer_embedding_CIP1,29,2,1_180_3,missing sample,
+Msn2,Msn2_5mer_embedding_PGM2,29,2,1_180_3,missing sample,
+Msn2,Msn2_34mer_embedding_CIP1,29,2,1_180_3,,
+Msn2,Msn2_34mer_flanking_CIP1,29,2,1_180_3,,
+Msn2,Msn2_5mer_embedding_HOR7,29,2,1_180_1,,
+Msn2,Msn2_5mer_embedding_CIP1,29,2,1_0_1,,
+Msn2,Msn2_5mer_embedding_PGM2,29,2,1_180_2,,
+Msn2NONDBDOE,Msn2_5mer_embedding_CIP1,29,2,1_180_1,missing sample,
+Msn2NONDBDOE,Msn2_5mer_embedding_PGM2,29,2,1_180_1,missing sample,
+Msn2NONDBDOE,Msn2_5mer_embedding_CIP1,29,2,1_0_1,,
